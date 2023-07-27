@@ -1,0 +1,167 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,p,a,span,ul,ol{
+	padding: 0; 
+	margin: 0;
+
+}
+/*header css part start*/
+#header{
+	background-image: url(../picture/header.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+}
+.collapse ul li a{
+	color: white;
+    text-transform: uppercase;
+    margin-top: 45px;
+    font-size: 18px;
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.collapse ul li a:hover{
+	color: white;
+    text-transform: uppercase;
+    margin-top: 45px;
+    font-size: 18px;
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.container-fluid img{
+	margin-top: 30px;
+}
+.text_content{
+    color: white;
+}
+.border{
+	margin-top:48px;
+
+
+}
+.heading{
+	margin-top: 210px;
+}
+.text-content h4{
+   color: white;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+   font-size: 45px ;
+   text-align: center;
+}
+.text-content p{
+   color: white;
+   text-transform: uppercase;
+   font-size: 20px ;
+   text-align: center;
+   margin-top:50px ;
+   color: #c4c4c4;
+}
+/*header css part end*/
+/*services css part start*/
+.head{
+	text-align: center;
+	position: relative;
+}
+.head h4{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	text-transform: uppercase;
+	margin-top: 90px;
+	margin-bottom: 30px;
+}
+.head img{
+  margin-bottom: 70px;
+}
+.tool{
+	text-align: center;
+}
+.tool img {
+	margin-bottom:38px;
+}
+.tool h4 {
+	margin-bottom: 20px;
+	font-family: 'Montserrat', sans-serif;
+/*	font-weight: 700;*/
+	font-size: 20px;
+}
+.tool p {
+	
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #cdcdcd;
+}
+/*services css part end*/
+/*expertise css part start*/
+#expertise{
+	background-image: url(../picture/bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 720px;
+	margin-top: 90px;
+	
+}
+.content h4{
+	font-size: 40px;
+	font-weight: 700;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+.content p{
+	font-size: 16px;
+	font-weight: 400;
+    font-family: 'Noto Sans', sans-serif;
+	margin-bottom: 50px;
+	color: #9f9f9f;
+}
+.content1 h4{
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+
+}
+.content1 p{
+	margin-top: 5px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 60px;
+
+}
+.button a {
+	color: black;
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 30%;
+	padding: 20px 50px;
+	text-transform: uppercase;
+	
+	font-weight: 700;
+	font-size: 16px;
+}
+
+/*expertise css part end*/
+/*portfolio css part start*/
+#portfolio{
+	color: white;
+	
+}
+/*portfolio css part end*/
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans', sans-serif;*/
